@@ -1,0 +1,17 @@
+127.0.0.1 - - [08/Feb/2024:20:29:12 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [08/Feb/2024:20:29:14 +0530] "GET /LoginApplication/ HTTP/1.1" 404 772
+0:0:0:0:0:0:0:1 - - [08/Feb/2024:20:29:14 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [08/Feb/2024:20:29:35 +0530] "GET /LoginApplication/Login1.html HTTP/1.1" 200 611
+0:0:0:0:0:0:0:1 - - [08/Feb/2024:20:29:44 +0530] "GET /LoginApplication/LoginServlet1?firstname=Sri&middlename=Devi&lastname=Kumpati HTTP/1.1" 404 785
+0:0:0:0:0:0:0:1 - - [08/Feb/2024:20:31:15 +0530] "GET /LoginApplication/ HTTP/1.1" 404 772
+0:0:0:0:0:0:0:1 - - [08/Feb/2024:20:31:42 +0530] "GET /LoginApplication/LoginServlet1?firstname=Sri&middlename=Devi&lastname=Kumpati HTTP/1.1" 404 785
+127.0.0.1 - - [08/Feb/2024:20:32:47 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [08/Feb/2024:20:32:48 +0530] "GET /LoginApplication/ HTTP/1.1" 404 772
+0:0:0:0:0:0:0:1 - - [08/Feb/2024:20:33:27 +0530] "GET /LoginApplication/LoginServlet1?firstname=Sri&middlename=Durga&lastname=Bhavani HTTP/1.1" 404 785
+127.0.0.1 - - [08/Feb/2024:20:46:13 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [08/Feb/2024:20:46:13 +0530] "GET /LoginApplication/ HTTP/1.1" 404 772
+0:0:0:0:0:0:0:1 - - [08/Feb/2024:20:46:38 +0530] "GET /LoginApplication/login.html HTTP/1.1" 200 528
+0:0:0:0:0:0:0:1 - - [08/Feb/2024:20:47:06 +0530] "GET /LoginApplication/LoginServlet?username=Sri&password=devi%40123 HTTP/1.1" 200 58
+0:0:0:0:0:0:0:1 - - [08/Feb/2024:20:48:21 +0530] "GET /LoginApplication/ HTTP/1.1" 404 772
+0:0:0:0:0:0:0:1 - - [08/Feb/2024:20:48:53 +0530] "GET /LoginApplication/ HTTP/1.1" 404 772
+0:0:0:0:0:0:0:1 - - [08/Feb/2024:20:49:51 +0530] "GET /LoginApplication/LoginServlet?username=Sri&password=Sri%40123 HTTP/1.1" 200 64

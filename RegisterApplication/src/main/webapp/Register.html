@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+     <title>Registration form...</title>
+</head>
+<body bgcolor='pink'>
+     <h1>Registration form....</h1>
+     <form method="get" action="./RegisterServlet">
+     
+     <label>username:</label>
+     <input type ="text" name="username" required/>
+     <br><br>
+     
+     <label>password:</label>
+     <input type ="password" name="password" required/>
+     <br><br>
+     
+     <label>user mobile:</label>
+     <input type ="number" name="mobile" required/>
+     <br><br>
+      
+     <label>Email:</label>
+     <input type ="email" name="email" required/>
+     <br><br>
+   
+   
+     <label>Gender:</label>
+     <input type ="radio" name="gender" value="Male"/>MALE
+     <input type ="radio" name="gender" value="Female"/>FEMALE
+     <br><br>
+     
+     <label>Dob:</label>
+     <input type ="date" name="dob" required/>
+     <br><br>
+     
+     <label>Qualification:</label>
+     <input type ="checkbox" name="qualification" value="BSC"/>BSC
+     <input type ="checkbox" name="qualification" value="MCA"/>MCA
+     <input type ="checkbox" name="qualification" value="BTECH"/>BTECH
+     <input type ="checkbox" name="qualification" value="MTECH"/>MTECH
+     <br><br>
+     
+     <label>country:</label>
+     <select name="country">
+     <option>INDIA</option>
+     <option>China</option>
+     <option>Africa</option>
+     <option>Japan></option>
+     </select>
+     <br><br>
+     
+     <label>language:</label>
+     <select name="language" size='z' multiple>
+     <option>Telugu></option>
+     <option>Hindi</option>
+     <option>English</option>
+     </select>
+     <br><br>
+     
+     <label>Comments ratan sir:</label>
+     <textarea name="comments" rows="5" cols="25">
+     </textarea>
+     <br><br>
+     
+     <input type ="submit" value="Register"/>
+    </form> 
+     
+</body>
+</html>

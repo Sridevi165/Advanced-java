@@ -1,0 +1,11 @@
+127.0.0.1 - - [12/Feb/2024:18:33:12 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [12/Feb/2024:18:33:14 +0530] "GET /ProductApplication/ HTTP/1.1" 404 774
+0:0:0:0:0:0:0:1 - - [12/Feb/2024:18:33:14 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [12/Feb/2024:18:33:41 +0530] "GET /ProductApplication/product.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [12/Feb/2024:18:34:17 +0530] "GET /LoginApplication/ HTTP/1.1" 404 772
+0:0:0:0:0:0:0:1 - - [12/Feb/2024:18:34:37 +0530] "GET /LoginApplication/Login1.html HTTP/1.1" 304 -
+127.0.0.1 - - [12/Feb/2024:23:13:27 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [12/Feb/2024:23:13:29 +0530] "GET /LoginApplication/Registrationform.html HTTP/1.1" 200 1774
+0:0:0:0:0:0:0:1 - - [12/Feb/2024:23:13:29 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [12/Feb/2024:23:18:24 +0530] "GET /LoginApplication/Registrationform.html HTTP/1.1" 200 1883
+0:0:0:0:0:0:0:1 - - [12/Feb/2024:23:19:58 +0530] "GET /LoginApplication/Registrationform.html HTTP/1.1" 200 1897

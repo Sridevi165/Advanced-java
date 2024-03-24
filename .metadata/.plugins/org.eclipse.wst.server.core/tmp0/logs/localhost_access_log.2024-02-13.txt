@@ -1,0 +1,11 @@
+127.0.0.1 - - [13/Feb/2024:21:43:27 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [13/Feb/2024:21:43:28 +0530] "GET /RegisterApplication/ HTTP/1.1" 404 775
+0:0:0:0:0:0:0:1 - - [13/Feb/2024:21:43:28 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [13/Feb/2024:21:44:01 +0530] "GET /RegisterApplication/Registerapplication.html HTTP/1.1" 404 799
+0:0:0:0:0:0:0:1 - - [13/Feb/2024:21:45:33 +0530] "GET /RegisterApplication/ HTTP/1.1" 404 775
+0:0:0:0:0:0:0:1 - - [13/Feb/2024:21:45:55 +0530] "GET /RegisterApplication/Register.html HTTP/1.1" 200 1899
+0:0:0:0:0:0:0:1 - - [13/Feb/2024:21:47:55 +0530] "GET /RegisterApplication/Registration?username=Sri&password=devi%40123&mobile=9441482596&email=kumpatisridevi%40gmain.com&gender=MALE&gender=FEMALE&dob=2001-06-01&qualification=BSC&country=INDIA&language=English HTTP/1.1" 404 787
+127.0.0.1 - - [13/Feb/2024:21:49:41 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [13/Feb/2024:21:49:41 +0530] "GET /RegisterApplication/ HTTP/1.1" 404 775
+0:0:0:0:0:0:0:1 - - [13/Feb/2024:21:53:16 +0530] "GET /RegisterApplication/ HTTP/1.1" 404 775
+0:0:0:0:0:0:0:1 - - [13/Feb/2024:21:54:16 +0530] "GET /RegisterApplication/Registration?username=Sri&password=devi%40123&mobile=9441482596&email=kumpatisridevi%40gmain.com&gender=MALE&gender=FEMALE&dob=2001-06-01&qualification=BSC&country=INDIA HTTP/1.1" 404 787

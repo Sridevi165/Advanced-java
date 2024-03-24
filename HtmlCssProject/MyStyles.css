@@ -1,0 +1,32 @@
+@charset "ISO-8859-1";
+.Firstdesign
+{
+color:purple;
+text-align:center;
+text-decoration:underline;
+font-size:30px;
+font-family:'Gill Sans';
+font-style:italic;
+padding-top:20px
+}
+.Seconddesign
+{
+color:Red;
+text-align:left;
+text-decoration:overline;
+font-size:30px;
+font-family:'Gill Sans';
+font-style:oblique;
+mapping-top:20px
+}
+.thirddesign
+{
+color:blue;
+text-align:right;
+text-decoration:underline;
+font-size:30px;
+font-family:'Gill Sans';
+font-style:italic;
+padding-top:20px
+}
+

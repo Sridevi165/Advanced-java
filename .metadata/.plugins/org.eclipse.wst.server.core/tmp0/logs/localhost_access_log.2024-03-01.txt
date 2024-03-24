@@ -1,0 +1,9 @@
+127.0.0.1 - - [01/Mar/2024:13:04:37 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [01/Mar/2024:13:04:39 +0530] "GET /CookiesSessionProject/ HTTP/1.1" 404 777
+0:0:0:0:0:0:0:1 - - [01/Mar/2024:13:04:39 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [01/Mar/2024:13:04:54 +0530] "GET /CookiesSessionProject/form.html HTTP/1.1" 404 786
+0:0:0:0:0:0:0:1 - - [01/Mar/2024:13:05:26 +0530] "GET /CookiesSessionProject/ HTTP/1.1" 404 777
+0:0:0:0:0:0:0:1 - - [01/Mar/2024:13:05:33 +0530] "GET /CookiesSessionProject/FirstForm1.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [01/Mar/2024:13:05:39 +0530] "POST /CookiesSessionProject/FirstServlet1 HTTP/1.1" 200 470
+0:0:0:0:0:0:0:1 - - [01/Mar/2024:13:05:58 +0530] "POST /CookiesSessionProject/SecondServlet1 HTTP/1.1" 200 443
+0:0:0:0:0:0:0:1 - - [01/Mar/2024:13:06:03 +0530] "POST /CookiesSessionProject/ThirdServlet1 HTTP/1.1" 200 193
